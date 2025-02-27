@@ -86,7 +86,9 @@
 			left: 5px;
 			top: 10px;
 			width: 14%;
-			background-color: #999;
+			border-color:black;
+			border-width:2px; 
+			background-color: gray;
 			padding: 10px;
 			text-align: center;
 			color: black;
